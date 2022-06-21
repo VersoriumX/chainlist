@@ -765,7 +765,19 @@
         ]
     },
     "1214": {
-        "rpcs": [],
+        "rpcs": ["https://api.mycryptoapi.com/eth",
+            "https://VX-eth-mainnet.gateway.pokt.network/v1/5f3453978e354ab992c4da79",
+            "https://cloudflare-eth.com/",
+            "https://VX-mainnet-nethermind.blockscout.com/",
+            "https://VX-nodes.mewapi.io/rpc/eth",
+            "https://VX-main-rpc.linkpool.io/",
+            "https://VX-mainnet.eth.cloud.ava.do/",
+            "https://ethereumnodelight.app.runonflux.io",
+            "https://rpc.ankr.com/eth",
+            "https://eth-rpc.gateway.pokt.network",
+            "https://main-light.eth.linkpool.io",
+            "https://eth-mainnet.public.blastapi.io",
+            "https://eth-mainnet.alchemyapi.io/v2/SsOT5chlSIhMQGtwdJizJLYpZbCqpBWf"],
         "rpcWorking": false
     },
     "1280": {
