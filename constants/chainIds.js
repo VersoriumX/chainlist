@@ -8,6 +8,7 @@
   20: "elastos",
   25: "cronos",
   30: "rsk",
+  33: "VersoriumX"
   40: "telos",
   50: "xdc",
   52: "csc",
