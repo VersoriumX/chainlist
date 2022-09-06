@@ -1393,6 +1393,16 @@
             "https://dataserver-asia-4.zenithchain.co/",
             "https://dataserver-asia-2.zenithchain.co/"
         ]
+        "33": {
+            "rpcs": [
+                "https://eth-goerli.g.alchemy.com/v2/yqsHhEQ9lFPKr9SSD8BooYazsQWHUZUQ"
+                "https://eth-mainnet.g.alchemy.com/v2/SsOT5chlSIhMQGtwdJizJLYpZbCqpBWf"
+                "https://polygon-mainnet.g.alchemy.com/v2/x5OFVs4AmEgcHAItfXFDUCtddse_zOVh"
+                "https://eth-mainnet.nodereal.io/v1/1659dfb40aa24bbb8153a677b98064d7"
+                "https://rpc.ankr.com/eth"
+                "https://node.eggs.cool",
+                "https://node.expanse.tech"
+            ]
     },
     "1506": {
         "rpc": [
