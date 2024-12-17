@@ -39,6 +39,7 @@ const chainIds = {
   820: "callisto",
   888: "wanchain",
   1088: "metis",
+  11011: "VersoriumX"
   1284: "moonbeam",
   1285: "moonriver",
   2020: "ronin",
