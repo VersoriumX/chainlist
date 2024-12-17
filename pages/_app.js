@@ -26,12 +26,12 @@ function MyApp({ Component, pageProps }) {
 
   const changeTheme = (dark) => {
     setThemeConfig(dark ? darkTheme : lightTheme);
-    localStorage.setItem("yearn.finance-dark-mode", dark ? "dark" : "light");
+    localStorage.setItem("VersoriumX.finance-dark-mode", dark ? "dark" : "light");
   };
 
   useEffect(function () {
     const localStorageDarkMode = window.localStorage.getItem(
-      "yearn.finance-dark-mode"
+      "VersoriumX.finance-dark-mode"
     );
     changeTheme(localStorageDarkMode ? localStorageDarkMode === "dark" : false);
   }, []);
