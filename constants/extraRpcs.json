@@ -5,6 +5,8 @@
             "https://rpc.flashbots.net/",
             "https://eth-mainnet.gateway.pokt.network/v1/5f3453978e354ab992c4da79",
             "https://cloudflare-eth.com/",
+            "https://mainnet.g.alchemy.com/v2/yqsHhEQ9lFPKr9SSD8BooYazsQWHUZUQ",
+            "https://app.infura.io/key/83029b82c3804348b9ba14ddd6a604cf/all-endpoint",
             "https://mainnet-nethermind.blockscout.com/",
             "https://nodes.mewapi.io/rpc/eth",
             "https://main-rpc.linkpool.io/",
@@ -91,13 +93,26 @@
             "https://evm-t3.cronos.org:8545/",
             "https://evm-t3.cronos.org/"
         ]
+           },
+    "11011": {
+        "rpcs": [
+            "https://mainnet.g.alchemy.com/v2/yqsHhEQ9lFPKr9SSD8BooYazsQWHUZUQ",
+            "https://starknet-mainnet.g.alchemy.com/starknet/version/rpc/v0_7/yqsHhEQ9lFPKr9SSD8BooYazsQWHUZUQ",
+            "https://api.coinbase.com/versoriumX/v1",
+            "https://app.infura.io/key/83029b82c3804348b9ba14ddd6a604cf/all-endpoint",
+             "https://eth-mainnet.alchemyapi.io/v2/yqsHhEQ9lFPKr9SSD8BooYazsQWHUZUQ",
+            "https://rpc.hermesdefi.io/",
+             "https://polygon-rpc.com",
+            "https://evm-cronos.crypto.org",
+             "https://api.mycryptoapi.com/eth",
+        ]
     },
     "42161": {
         "rpcs": [
             "https://arb1.arbitrum.io/rpc",
             "https://rpc.ankr.com/arbitrum",
-            "https://arbitrum-mainnet.infura.io/v3/${INFURA_API_KEY}",
-            "https://arb-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}"
+            "https://arbitrum-mainnet.infura.io/v3/${83029b82c3804348b9ba14ddd6a604cf}",
+            "https://arb-mainnet.g.alchemy.com/v2/${yqsHhEQ9lFPKr9SSD8BooYazsQWHUZUQ}"
         ]
     },
     "8217": {
@@ -151,7 +166,9 @@
         "rpcs": [
             "https://mainnet.optimism.io/",
             "https://optimism-mainnet.public.blastapi.io",
-            "https://rpc.ankr.com/optimism"
+            "https://rpc.ankr.com/optimism",
+            "https://mainnet.g.alchemy.com/v2/yqsHhEQ9lFPKr9SSD8BooYazsQWHUZUQ",
+            "https://app.infura.io/key/83029b82c3804348b9ba14ddd6a604cf/all-endpoint"
         ]
     },
     "1088": {
